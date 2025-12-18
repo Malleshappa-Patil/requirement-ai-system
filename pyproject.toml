@@ -1,0 +1,7 @@
+[project]
+name = "requirements-ai-system"
+version = "0.1.0"
+description = "AI-based requirements classification and traceability system"
+requires-python = ">=3.9"
+
+dependencies = []

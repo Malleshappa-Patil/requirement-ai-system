@@ -1,0 +1,5 @@
+customer_requirement_id,customer_requirement,system_requirement,similarity_score,status
+CR-1,the system shall support emergency braking.,The system shall operate reliably at high temperatures.,0.53,Mapped
+CR-2,the vehicle must operate at temperatures up to 60 degrees celsius.,,0.5,Unmapped
+CR-3,the controller should detect sensor faults automatically.,,0.45,Unmapped
+CR-4,the system shall provide diagnostic information to the user.,The system shall operate reliably at high temperatures.,0.56,Mapped
