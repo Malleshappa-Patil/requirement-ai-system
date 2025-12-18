@@ -50,7 +50,7 @@ Validation & Reports
 
 
 ## 📂 Project Structure
-
+```
 requirements-ai-system/
 │
 ├── data/
@@ -85,7 +85,7 @@ requirements-ai-system/
 ├── main.py
 ├── pyproject.toml
 └── README.md
-
+```
 
 ---
 
